@@ -2,4 +2,7 @@
 <resources>
 <!--    dp dimensions-->
     <dimen name="dp_16">16dp</dimen>
+
+<!--    sp dimension-->
+    <dimen name="sp_22">22sp</dimen>
 </resources>
